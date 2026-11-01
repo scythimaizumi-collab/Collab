@@ -10,6 +10,9 @@ namespace Collaboration
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to the C# Programming Activities!");
+            Console.WriteLine("Here are the activities you can try:");
+
             /// Activity 1: (If Else Statement)
             // Enter your examination score: 92
 
@@ -64,7 +67,7 @@ namespace Collaboration
             //  ----------------------------------------
 
             /// Activity 5: (While Loop)
-             
+
             // Enter password: hello
             // Incorrect password! Try again.
 
